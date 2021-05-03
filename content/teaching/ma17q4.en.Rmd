@@ -1,0 +1,88 @@
+---
+title: "Macroeconomics (2017Q4)"
+slug: "ma/2017Q4"
+---
+
+```{r, include=FALSE}
+source("../../.Rprofile")
+```
+
+# 2017 Q4 Macroeconomics (Kobe Univ.)
+
+
+## Course materials
+
+- Day 01
+    - [Slides](https://rawgit.com/rokko-ma17q4/material/master/day01/day01.html)
+    - [Syllabus : A](https://cdn.rawgit.com/rokko-ma17q4/material/4de4b3c9/handouts/ma17q4-A.pdf)
+    - [Problem Set : B](https://cdn.rawgit.com/rokko-ma17q4/material/4de4b3c9/handouts/ma17q4-B.pdf)
+    - [Homework : hw01, Due on 7 Dec. ](https://rawgit.com/rokko-ma17q4/hw-portal)
+- Day 02
+    - [Slides](https://rawgit.com/rokko-ma17q4/material/master/day02/day02.html)
+    - [Problem Set : C](https://cdn.rawgit.com/rokko-ma17q4/material/892d2989/handouts/ma17q4-C.pdf)
+    - [Homework : hw02, Due on 11 Dec.](https://rawgit.com/rokko-ma17q4/hw-portal)
+- Day 03
+    - [Slides](https://rawgit.com/rokko-ma17q4/material/master/day03/day03.html)
+    - [Problem Set : D](https://cdn.rawgit.com/rokko-ma17q4/material/6b31842f/handouts/ma17q4-D.pdf)
+    - [Homework : hw03, Due on 14 Dec.](https://rawgit.com/rokko-ma17q4/hw-portal)
+- Day 04
+    - [Slides](https://rawgit.com/rokko-ma17q4/material/master/day04/day04.html)
+    - [Problem Set : E](https://rawgit.com/rokko-ma17q4/material/master/handouts/ma17q4-E.pdf)
+    - [Homework : hw04, Due on 18 Dec.](https://rawgit.com/rokko-ma17q4/hw-portal)
+- Day 05
+    - [Slides](https://rawgit.com/rokko-ma17q4/material/master/day05/day05.html)
+    - [Problem Set : F](https://rawgit.com/rokko-ma17q4/material/master/handouts/ma17q4-F.pdf)
+- Day 06
+    - [Slides](https://rawgit.com/rokko-ma17q4/material/master/day06/day06.html)
+    - [Problem Set : G](https://rawgit.com/rokko-ma17q4/material/master/handouts/ma17q4-G.pdf)
+- Day 07
+    - [Slides](https://rawgit.com/rokko-ma17q4/material/master/day07/day07.html)
+    - [Problem Set : H](https://rawgit.com/rokko-ma17q4/material/master/handouts/ma17q4-H.pdf)
+- Day 08
+    - [Slides](https://rawgit.com/rokko-ma17q4/material/master/day08/day08.html)
+    - [Problem Set : I](https://rawgit.com/rokko-ma17q4/material/master/handouts/ma17q4-I.pdf)
+- Day 09
+    - [Slides](https://rawgit.com/rokko-ma17q4/material/master/day09/day09.html)
+    - [Problem Set : J](https://rawgit.com/rokko-ma17q4/material/master/handouts/ma17q4-J.pdf)
+- Day 10
+    - [Slides](https://rawgit.com/rokko-ma17q4/material/master/day10/day10.html)
+    - [Problem Set : K](https://rawgit.com/rokko-ma17q4/material/master/handouts/ma17q4-K.pdf)
+- Day 11
+    - [Slides](https://rawgit.com/rokko-ma17q4/material/master/day11/day11.html)
+    - [Problem Set : L](https://rawgit.com/rokko-ma17q4/material/master/handouts/ma17q4-L.pdf)
+- Day 12
+    - [Slides](https://rawgit.com/rokko-ma17q4/material/master/day12/day12.html)
+    - [Problem Set : M](https://rawgit.com/rokko-ma17q4/material/master/handouts/ma17q4-M.pdf)
+- Day 13
+    - [Slides](https://rawgit.com/rokko-ma17q4/material/master/day13/day13.html)
+    - [Problem Set : N](https://rawgit.com/rokko-ma17q4/material/master/handouts/ma17q4-N.pdf)
+- Day 14
+    - [Problem Set : O](https://rawgit.com/rokko-ma17q4/material/master/handouts/ma17q4-O.pdf)
+
+
+
+## Assignments and exercises
+
+See https://github.com/rokko-ma17q4/hw-portal
+
+Assignments should be submitted through GitHub unless otherwise stated.
+Always start an assignment from the "Get Invitation" link in the above portal site.
+
+### R basics on DataCamp
+
+I decided to use [DataCamp](datacamp.com) instead of me coaching you for programming basics. All the enrolled students should have been invited to the Classroom Account by now. Please approve the request and enjoy the great courses provided by [DataCamp](datacamp.com). 
+
+## Additional Information
+
+If you plan to use at a computer at the computer lab, you might want to 
+know several techniques to install applications on Mac. See [hw-portal/Wiki](https://github.com/rokko-ma17q2/hw-portal/wiki)
+
+
+Here is a series of notes concerning R, R Markdown and related stuff.
+
+* [Quick Tutorial for R Markdown](https://cdn.rawgit.com/kenjisato/tips/2e4d7a9d/rmarkdown-basic/basic.html)
+
+
+## Old materials
+
+Want a head start? Visit [2017Q2](`r bd_relref("ma17q2.en.html")`)

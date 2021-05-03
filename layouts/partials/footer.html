@@ -1,0 +1,24 @@
+<footer id="footer">
+    <p class="small">
+    {{ with .Site.Params.copyright }}
+        {{ . | markdownify }}
+    {{ else }}
+        © Copyright {{ now.Format "2006"}} {{ .Site.Params.name }}
+    {{ end }}
+    {{ if .Site.Params.enableRSS }}
+	    <a class="symbol" href="{{ .Site.RSSLink }}">rss</a>
+	  {{ end }}
+	  <a calss="privacy" href="/{{ .Site.Params.PrivacyLink }}">Privacy Policy</a>
+    </p>
+</footer>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+  }
+});
+</script>
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>

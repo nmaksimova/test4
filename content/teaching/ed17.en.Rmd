@@ -1,0 +1,68 @@
+---
+title: "Economic Dynamics (2017)"
+slug: "ed/2017"
+---
+
+```{r, include = FALSE}
+day01 = "https://rawgit.com/rokko-ed17q1/slides/master/day01/day01.html"
+day02 = "https://rawgit.com/rokko-ed17q1/slides/master/day02/day02.html"
+day02pdf = "https://rawgit.com/rokko-ed17q1/slides/master/day02/ramsey.pdf"
+day03 = "https://rawgit.com/rokko-ed17q1/slides/master/day03/day03.html"
+day03suppl = "https://rawgit.com/rokko-ed17q1/slides/master/day03/day03suppl.html"
+day04 = "https://rawgit.com/rokko-ed17q1/slides/master/day04/day04.html"
+day04quiz = "https://rawgit.com/rokko-ed17q1/slides/master/day04/day04quiz.pdf"
+day05 = "https://rawgit.com/rokko-ed17q1/slides/master/day05/day05.html"
+day06 = "https://rawgit.com/rokko-ed17q1/slides/master/day06/day06.html"
+day07 = "https://rawgit.com/rokko-ed17q1/slides/master/day07/day07.html"
+day08 = "https://rawgit.com/rokko-ed17q1/slides/master/day08/day08.html"
+day08quiz = "https://rawgit.com/rokko-ed17q1/slides/master/day08/day08quiz.pdf"
+day09 = "https://rawgit.com/rokko-ed17q1/slides/master/day09/day09.html"
+day10 = "https://rawgit.com/rokko-ed17q1/slides/master/day10/day10.html"
+day10quiz = "https://rawgit.com/rokko-ed17q1/slides/master/day10/day10quiz.pdf"
+day11 = "https://rawgit.com/rokko-ed17q1/slides/master/day11/day11.html"
+day12 = "https://rawgit.com/rokko-ed17q1/slides/master/day12/day12.html"
+day12note = "https://rawgit.com/rokko-ed17q1/slides/master/day12/day12note.pdf"
+```
+
+
+# 2017Q1 Economic Dynamics (Kobe Univ.)
+
+## Lecture Slides
+
+Mostly in Japanese.
+
+| Day    |  Title                                            | Memo |
+|:-------|:--------------------------------------------------|:-----|
+| Day 01 | [Course Overview (mostly in Japanese)](`r day01`) |      |
+| Day 02 | [Slides](`r day02`)                               |      |
+|        | [Notes on the Ramsey model](`r day02pdf`)         |      |
+| Day 03 | [Slides](`r day03`)                               |      |
+|        | [RStudio Shortcuts](`r day03suppl`)               |      |
+| Day 04 | [Slides](`r day04`)                               |      |
+|        | [Quiz](`r day04quiz`)                             |      |
+| Day 05 | [Slides](`r day05`)                               |      |
+| Day 06 | [Slides](`r day06`)                               |      |
+| Day 07 | [Slides](`r day07`)                               |      |
+| Day 08 | [Slides](`r day08`)                               |      |
+|        | [Quiz](`r day08quiz`)                             |      |
+| Day 09 | [Slides](`r day09`)                               |      |
+| Day 10 | [Slides](`r day10`)                               |      |
+|        | [Quiz](`r day10quiz`)                             |      |
+| Day 11 | [Slides](`r day11`)                               |      |
+| Day 12 | [Slides](`r day12`)                               |      |
+|        | [Example](`r day12note`)                          |      |
+
+## Lecture Notes
+
+http://led.kenjisato.jp (work in progress, in Japanese)
+
+## Assignments
+
+https://github.com/rokko-ed17q1/hw-portal
+
+
+## Additional Information
+
+[hw-portal/Wiki](https://github.com/rokko-ed17q1/hw-portal/wiki)
+
+

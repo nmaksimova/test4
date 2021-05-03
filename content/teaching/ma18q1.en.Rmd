@@ -1,0 +1,64 @@
+---
+title: "Macroeconomics (2018Q1)"
+slug: "ma/2018Q1"
+---
+
+```{r, include = FALSE}
+slides <- sprintf("https://rawgit.com/rokko-ma18q1/material/master/day%02d/day%02d.html", 1:15, 1:15)
+
+handouts <- sprintf("https://rawgit.com/rokko-ma18q1/material/master/handouts/ma18q1-%s.pdf", toupper(letters))
+
+```
+
+
+# 2018 Q1 Macroeconomics (Kobe Univ.)
+
+## Course material
+
+| Date      | Slides                        | Handouts                                               |
+|:----------|:------------------------------|:-------------------------------------------------------|
+| April 6   | [Day 01](`r slides[1]`)       | [A](`r handouts[1]`), [B](`r handouts[2]`)             |
+| April 10  | [Day 02](`r slides[2]`)       | [C](`r handouts[3]`)                                   |
+| April 13  | [Day 03](`r slides[3]`)       | [D](`r handouts[4]`)                                   |
+| April 17  | [Day 04](`r slides[4]`)       | [E](`r handouts[5]`)                                   |
+| April 20  | [Day 05](`r slides[5]`)       | [F](`r handouts[6]`)                                   |
+| April 24  | [Day 06](`r slides[6]`)       | [G](`r handouts[7]`), [H](`r handouts[8]`)             |
+| April 27  |  Day 07                       | [I](`r handouts[9]`)                                   |
+| May 1     |  Day 08 (Midterm Exam)        |                                                        |
+| May 8     | [Day 09](`r slides[9]`)       | [J](`r handouts[10]`)                                  |
+| May 11    | [Day 10](`r slides[10]`)      | [K](`r handouts[11]`)                                  |
+| May 18    | [Day 11](`r slides[11]`)      | [L](`r handouts[12]`)                                  |
+| May 22    |  Day 12                       | [M](`r handouts[13]`)                                  |
+| May 25    | [Day 13](`r slides[13]`)      | [N](`r handouts[14]`)                                  |
+| May 29    | [Day 14](`r slides[14]`)      | [O](`r handouts[15]`)                                  |
+| June 5    |  Day 15 (Final Exam)          |                                                        |
+
+
+
+The slides and handouts for 2017Q4 are available [here](`r blogdown::shortcode("ref", "/teaching/ma17q4.en.html")`).
+
+
+
+## Assignments 
+
+| ID                                           | Suggested Deadline  | Description | Invitation Link                                           | Solution     |
+|:---------------------------------------------|:--------------------|:------------|:----------------------------------------------------------|:-------------|
+| [hw01](https://github.com/rokko-ma18q1/hw01) | 2018-04-13 18:00:00 | Setup       | [Get Invitation](https://classroom.github.com/a/z4BiTzo1) | Not Provided |
+| [hw02](https://github.com/rokko-ma18q1/hw02) | 2018-04-20 18:00:00 | PWT         | [Get Invitation](https://classroom.github.com/a/RUF6Ghra) | NA           |
+| [hw03](https://github.com/rokko-ma18q1/hw03) | 2018-04-27 18:00:00 | Euler       | [Get Invitation](https://classroom.github.com/a/I1ZvLWcG) | NA           |
+| [hw04](https://github.com/rokko-ma18q1/hw04) | 2018-05-11 18:00:00 | Graph       | [Get Invitation](https://classroom.github.com/a/Kp2NHBEA) | NA           |
+| [hw05](https://github.com/rokko-ma18q1/hw05)   | 2018-05-18 18:00:00 | Final     | [Get Invitation](https://classroom.github.com/a/t7hPULXZ) | NA           |
+
+
+
+All assignments must be submitted through GitHub.
+**Always start an assignment with the "Get Invitation" link in the above portal site**.
+
+If you plan to use at a computer at the computer lab, you might want to 
+know several techniques to install applications on the Mac on campus. See [hw-portal/Wiki](https://github.com/rokko-ma17q4/hw-portal/wiki)
+
+
+Here is a series of notes concerning R, R Markdown and related stuff.
+
+* [Quick Tutorial for R Markdown](https://cdn.rawgit.com/kenjisato/tips/2e4d7a9d/rmarkdown-basic/basic.html)
+

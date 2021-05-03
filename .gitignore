@@ -1,0 +1,17 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Local site, Netlify will create them for us
+/public/*
+/docs
+
+# Intermediate files created by blogdown package
+/blogdown/*
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
